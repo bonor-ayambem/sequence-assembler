@@ -62,25 +62,26 @@ Fasta file called test.fasta is provided as follows:
 ```
 
 Run the following lines of code:
-```
+
  `javac Sequencer.java`
  `java Sequencer`
  
  `Enter File Name:`
+
  `test.fasta`
- ```
+
 
 The output is a file called resultsTest.fasta and it is located in the source folder.
 Its contents are the following:
 ```
-    contig1
+    > contig1
     GCATTTATTATCGGGAAAGCGTGTTTTTTGAAAAAAAAAAAAAAAAAAGCGTGTTTTTTG
-    contig2
+    > contig2
     GCATTTATTATCGGGCGACAATCCAATAGT
-    contig3
+    > contig3
     TCCTCTTTTAACTACAAAGCGTGTTTTTTG
-    contig4
+    > contig4
     TTAATCTGCCGTTTGTTATGGTTCTGAGAA
-    contig5
+    > contig5
     TTTTTTTTTTGGGGAAAATTTTCCCCGGGGTTTTAAAACCCCCCCGGGGGGGGGG
 ```
