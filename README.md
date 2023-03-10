@@ -86,3 +86,9 @@ Its contents are the following:
     > contig5
     TTTTTTTTTTGGGGAAAATTTTCCCCGGGGTTTTAAAACCCCCCCGGGGGGGGGG
 ```
+
+## Author
+
+### Bonor Ayambem
+
+Github - @bonor-ayambem
