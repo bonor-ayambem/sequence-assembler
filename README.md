@@ -1,5 +1,5 @@
 
-# Nucleotide Sequence Assembly from DNA Microarray data
+# Nucleotide Sequence Assembly from DNA Microarray Data
 
 ## Purpose
 
