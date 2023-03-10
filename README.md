@@ -67,8 +67,8 @@ Run the following lines of code:
  `java Sequencer`
  
 ```
-Enter File Name:
-test.fasta
+    Enter File Name:
+    test.fasta
 ```
 
 
