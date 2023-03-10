@@ -66,9 +66,10 @@ Run the following lines of code:
  `javac Sequencer.java`
  `java Sequencer`
  
- `Enter File Name:`
-
- `test.fasta`
+```
+Enter File Name:
+test.fasta
+```
 
 
 The output is a file called resultsTest.fasta and it is located in the source folder.
