@@ -34,7 +34,8 @@ save it in the source folder
 ## Test Run
 
 Fasta file called test.fasta is provided as follows:
- > > read1
+ > \> read1
+ 
  > GCATTTATTATCGGGCGACAATCCAATAGT
 > > read2
 > TCCTCTTTTAACTACAAAGCGTGTTTTTTG
